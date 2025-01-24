@@ -14,12 +14,9 @@ Contribute to open-source projects and collaborate with like-minded innovators.
 Dive deeper into cloud computing, generative AI, and scalable analytics.
 
 🌍 Let's Connect:
-
 📧 daksh.089000@gmail.com
-
 📧 sharmadaksh2001@gmail.com
-
-💼 linkedin.com/in/sharmadaksh
+💼 [linkedin.com/in/sharmadaksh](https://www.linkedin.com/in/sharmadaksh/)
 
 
 
