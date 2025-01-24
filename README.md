@@ -7,13 +7,18 @@ Hi there! I'm Daksh Sharma, a passionate Data Analyst with a First Class Honours
 Proficient in Python, R, SQL, and modern tools like Power BI, Tableau, SAP Datasphere, and AWS.
 Hands-on experience with AI/ML models, including transformer-based models like BERT and CNNs for deep learning projects.
 Expertise in data visualization, ETL pipelines, and developing scalable solutions.
+
 🎯 Goals:
 Build impactful data-driven solutions to drive business success and societal betterment.
 Contribute to open-source projects and collaborate with like-minded innovators.
 Dive deeper into cloud computing, generative AI, and scalable analytics.
+
 🌍 Let's Connect:
+
 📧 daksh.089000@gmail.com
+
 📧 sharmadaksh2001@gmail.com
+
 💼 linkedin.com/in/sharmadaksh
 
 
